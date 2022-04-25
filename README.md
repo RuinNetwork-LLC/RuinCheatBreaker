@@ -1,6 +1,9 @@
 # RuinCheatBreaker
 A Minecraft client that aims to be a perfect PVP client. It is based on the old version of Luna Client. AAL remake will be applied later.
 # motd: Make Potpvp Great Again!
+# Client Now Closed! As development progresses further, we will release a beta version. 
+
+https://cdn.discordapp.com/attachments/946728780976750624/968239195103584296/RCBlogo.jpg
 
 Client Version: 0.0.1 BETA
 Support server: https://discord.gg/mNSSuJXp6p
