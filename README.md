@@ -20,8 +20,8 @@ Q/A: "Your OS not supported" what is that? / Your Operation System is not suppor
 
 Credits:
 
-Client: (fork) ma1de, USSR_Nina (OfflineCheatBreaker) OfflineCB Dev Team
-Practice Server Plugins: ma1de (bought from mc-market)
+Client: (fork) ma1de, Identitizz , FreakingDeveloper , PhaseRunner (Lunar Client) LC Dev Team
+Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
 ===============================================================================
 클라이언트 버전 : 0.0.1 BETA
@@ -41,7 +41,7 @@ Q / A : 클라이언트 업데이트는 어떻게하나요? / Checked Github (�
 Q / A : Blyat 당신은 OS가 지원되지 않습니다 LOL 뭐죠? / 지원되지 않는 OS이지만 지원을 더추가할것입니다.
 
 Credits:
-
+===============================================================================
 Client: (fork) ma1de, Identitizz , FreakingDeveloper , PhaseRunner (Lunar Client) LC Dev Team
 Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
