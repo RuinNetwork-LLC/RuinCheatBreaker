@@ -4,7 +4,7 @@ A Minecraft client that aims to be a perfect PVP client. It is based on the old 
 
 Client Version: 0.0.1 BETA
 Support server: https://discord.gg/mNSSuJXp6p
-This Client is Offline CheatBreaker Fork Version
+This Client is LunarClient Fork Version
 If you have problem, join our Support Server, and create ticket, please.
 GitHub: https://github.com/RuinNetwork-LLC/RuinCheatBreaker
 
@@ -12,7 +12,7 @@ How to install this client?
 Go to %appdata% -> .Minecraft -> Versions <- Put folder here
 And start Minecraft Launcher 
 Go to Installation / Click too New Button
-Find Offline Cheat Breaker 1.8.9
+Find RuinCheatBreaker 1.8.9
 Create and Launch!
 
 Q/A: How to update Client? / Join our Discord https://discord.gg/mNSSuJXp6p, or update it from our GitHub - https://github.com/RuinNetwork-LLC/RuinCheatBreaker
