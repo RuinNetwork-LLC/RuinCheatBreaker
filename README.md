@@ -1,13 +1,13 @@
 # RuinCheatBreaker
-A Minecraft client that aims to be a perfect PVP client. It is based on the old version of Luna Client. AAL remake will be applied later.
+It has been completely rewritten and is being built as a replacement for the LunaClient. Our motto is to smash the cheaters.
 # motd: Make Potpvp Great Again!
-# Client Now Closed! As development progresses further, we will release a beta version. 
+# Sorry. Our project has completely changed. We are not going to use LunarClient code. As a result, the release was further delayed.
 
 https://cdn.discordapp.com/attachments/946728780976750624/968239195103584296/RCBlogo.jpg
 
-Client Version: 0.0.1 BETA
+Client Version: 0.0.0 (Start developing from scratch)
 Support server: https://discord.gg/mNSSuJXp6p
-This Client is LunarClient Fork Version
+This Client is create new!
 If you have problem, join our Support Server, and create ticket, please.
 GitHub: https://github.com/RuinNetwork-LLC/RuinCheatBreaker
 
@@ -27,9 +27,9 @@ Client: (fork) ma1de, Identitizz , FreakingDeveloper , PhaseRunner (Lunar Client
 Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
 ===============================================================================
-클라이언트 버전 : 0.0.1 BETA
+클라이언트 버전 : 0.0.0 (처음부터 개발 시작)
 지원 서버 : https://discord.gg/mNSSuJXp6p
-이 클라이언트는 LunarClient의 Fork 버전입니다.
+이 클라이언트는 새로작성되엇습니다.
 문제가 있으시면 지원 서버 가입 및 티켓 생성을 부탁드립니다.
 Github : https://github.com/RuinNetwork-LLC/RuinCheatBreaker
 
