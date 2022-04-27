@@ -23,7 +23,7 @@ Q/A: "Your OS not supported" what is that? / Your Operation System is not suppor
 
 Credits:
 
-Client: (fork) ma1de, Identitizz , FreakingDeveloper , PhaseRunner (Lunar Client) LC Dev Team
+Client: It is not yet configured as it needs to be newly developed.
 Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
 ===============================================================================
@@ -45,6 +45,6 @@ Q / A : Blyat 당신은 OS가 지원되지 않습니다 LOL 뭐죠? / 지원되�
 
 Credits:
 ===============================================================================
-Client: IDK NOW
+Client: It is not yet configured as it needs to be newly developed.
 Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
