@@ -24,7 +24,7 @@ Q/A: "Your OS not supported" what is that? / Your Operation System is not suppor
 Credits:
 
 Client: It is not yet configured as it needs to be newly developed.
-Practice Server developing Plugins: ma1de 
+Practice Server developing and Plugins: ma1de / FreakingDeveloper / SyntaxER0 / IdentiTizz /OLAOLA2321
 Minecraft: Mojang AB
 ===============================================================================
 클라이언트 버전 : 0.0.0 (처음부터 개발 시작)
@@ -46,5 +46,5 @@ Q / A : Blyat 당신은 OS가 지원되지 않습니다 LOL 뭐죠? / 지원되�
 Credits:
 ===============================================================================
 Client: It is not yet configured as it needs to be newly developed.
-Practice Server developing Plugins: ma1de 
+Practice Server developing and Plugins: ma1de / FreakingDeveloper / SyntaxER0 / IdentiTizz /OLAOLA2321
 Minecraft: Mojang AB
