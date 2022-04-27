@@ -45,6 +45,6 @@ Q / A : Blyat 당신은 OS가 지원되지 않습니다 LOL 뭐죠? / 지원되�
 
 Credits:
 ===============================================================================
-Client: (fork) ma1de, Identitizz , FreakingDeveloper , PhaseRunner (Lunar Client) LC Dev Team
+Client: IDK NOW
 Practice Server developing Plugins: ma1de 
 Minecraft: Mojang AB
